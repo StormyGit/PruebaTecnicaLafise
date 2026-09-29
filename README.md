@@ -2,9 +2,11 @@
 API REST desarrollada en .NET 8 con ASP.NET Core Web API, Entity Framework Core y SQLite.
 
 abrir el programa con visual studio, con la instalación de la dependencias y base de datos SQLlite
+```code
+cd Backend_PruebaTecnica_Lafise
 dotnet restore
 dotnet ef database update
-
+```
 
 ## Endpoints de la API
 
